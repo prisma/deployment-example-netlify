@@ -1,0 +1,12 @@
+node_modules
+yarn-error.log
+dist
+build
+.DS_Store
+examples
+tmp
+pnpm-debug.log
+sandbox
+*.tsbuildinfo
+# Local Netlify folder
+.netlify
