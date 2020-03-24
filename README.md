@@ -1,1 +1,1 @@
-# Prisma Deployment Example - Netlify
+# Prisma deployment to Netlify example
