@@ -8,6 +8,7 @@
     "prisma2": "2.0.0-preview024"
   },
   "scripts": {
+    "build": "prisma2 generate",
     "dev": "netlify dev"
   },
   "dependencies": {
