@@ -10,3 +10,6 @@ sandbox
 *.tsbuildinfo
 # Local Netlify folder
 .netlify
+
+# Ignore files containing environment variables
+.env*
