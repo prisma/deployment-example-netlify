@@ -5,7 +5,7 @@
   "license": "MIT",
   "devDependencies": {
     "prisma": "2.20.1",
-    "netlify-cli": "3.13.1"
+    "netlify-cli": "3.17.1"
   },
   "scripts": {
     "build": "prisma generate",
