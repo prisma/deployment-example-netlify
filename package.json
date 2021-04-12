@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
-    "prisma": "2.19.0",
+    "prisma": "2.20.1",
     "netlify-cli": "3.13.1"
   },
   "scripts": {
@@ -12,6 +12,6 @@
     "dev": "netlify dev"
   },
   "dependencies": {
-    "@prisma/client": "2.19.0"
+    "@prisma/client": "2.20.1"
   }
 }
