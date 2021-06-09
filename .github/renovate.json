@@ -10,6 +10,12 @@
       "packageNames": ["prisma", "@prisma/client"],
       "enabled": true,
       "updateTypes": ["minor"]
+    },
+    {
+      "packageNames": ["netlify-cli"],
+      "updateTypes": ["minor"],
+      "schedule": ["at any time"],
+      "automerge": true
     }
   ]
 }
