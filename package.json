@@ -4,14 +4,14 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
-    "prisma": "2.24.1",
-    "netlify-cli": "3.37.1"
+    "netlify-cli": "12.2.9",
+    "prisma": "^4.7.1"
   },
   "scripts": {
     "build": "prisma generate",
     "dev": "netlify dev"
   },
   "dependencies": {
-    "@prisma/client": "2.24.1"
+    "@prisma/client": "^4.7.1"
   }
 }
