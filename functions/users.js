@@ -6,6 +6,7 @@ exports.handler = async (event, context, callback) => {
     const users = await prisma.user.findMany({
       include: { profile: true }
     })
+    console.log(users)
     return {
       statusCode: 200,
       headers: { 'Content-Type': 'application/json' },
